@@ -9,7 +9,7 @@ Men in crime ;)
   <tr>
     <td>the two smugglers!!</td>
     <td>how to watch TV</td>
-    <td>spiderman and policeman in conversation</td>
+    <td>spiderman and policeman in convers..</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
