@@ -10,13 +10,13 @@ Men in crime ;)
     <td>the two smugglers!!</td>
     <td>how to watch TV</td>
     <td>spiderman and policeman in convers..</td>
-    <td>&nbsp;</td>
+    <td>The dynamic duo</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/98616512/159129121-66e810e1-8ccd-4288-bcf1-d9c29af0fb17.jpg" height="200px" width="200px" /></td>
     <td><img src="https://user-images.githubusercontent.com/98616512/159130618-63238d2b-8fc2-4618-a2b6-9489cc72d0ea.jpg" height="200px" width="200px" /></td>
     <td><img src="https://user-images.githubusercontent.com/98616512/159130898-ebe07254-e45f-40eb-a98e-8a7ed11febb6.jpg" height="200px" width="200px" /></td>
-    <td>&nbsp;</td>
+    <td><img src="https://user-images.githubusercontent.com/98616512/159131667-7ad7b426-7e90-452b-b907-d722c3efefac.jpg" height="200px" width="200px" /></td>
   </tr>
   <tr>
     <td colspan="4">&nbsp;</td>
